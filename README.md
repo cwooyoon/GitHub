@@ -15,6 +15,14 @@
 * github에서 웹사이트 만들기(https://www.youtube.com/watch?v=GISbOnqoNTw)
 * 2. GITHUB을 활용한 개인 포트폴리오 제작(https://www.youtube.com/watch?v=wncvZ4chuyw)
 
+## Jekyll Themes
+* https://themes.jekyllrc.org/hmfaysal-v2-theme/
+* https://themes.jekyllrc.org/clean-and-simple/
+* https://themes.jekyllrc.org/centrarium/
+* https://themes.jekyllrc.org/arcana/
+
+
+
 ## GitHub Tirurial
 * https://ssungkang.tistory.com/category/git
   
