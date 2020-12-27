@@ -9,6 +9,8 @@
   - https://www.youtube.com/watch?v=dUbp9wAy178
   
 ## Github.io 
+* 페이지 제작 ppt: https://kr.endtoend.ai/slides/github_pages.pdf
+
 * https://www.youtube.com/results?search_query=github.io+%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4+%EB%A7%8C%EB%93%A4%EA%B8%B0
 * github에서 웹사이트 만들기(https://www.youtube.com/watch?v=GISbOnqoNTw)
 * 2. GITHUB을 활용한 개인 포트폴리오 제작(https://www.youtube.com/watch?v=wncvZ4chuyw)
